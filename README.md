@@ -15,3 +15,12 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,python,flutter,mysql,docker,linux,git,github,vscode,arduino" />
 
 </div>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dadaylidev&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadaylidev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
