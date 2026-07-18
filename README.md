@@ -8,3 +8,10 @@
 <div align="center">
   <img src="assets/lain.gif" width="650" alt="Serial Experiments Lain">
 </div>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,laravel,python,flutter,mysql,docker,linux,git,github,vscode,arduino" />
+
+</div>
