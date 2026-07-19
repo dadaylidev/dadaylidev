@@ -14,7 +14,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dadaylidev&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/dadaylidev?label=Followers&style=for-the-badge&color=58A6FF" alt="Followers"/>
 </p>
 
 </div>
@@ -35,7 +34,7 @@ fun_fact: "Let's all love Lain."
 - 🔭 I'm currently working on **useful software**
 - 🌱 Currently exploring **AI-driven applications** and **security tooling**
 - 💬 Ask me about **JavaScript/TypeScript, PHP, Python**
-- ⚡ Fun fact: I run **Fedora Linux** as my daily driver
+- ⚡ Fun fact: I run **Linux** as my daily driver
 
 <br>
 
